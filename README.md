@@ -1,0 +1,6 @@
+- Dice-Game 🎮🎮🎮🎮
+- Refresh the page to see the game results
+- ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+- Click the link to play
+- 👇👇👇👇👇👇👇👇👇👇👇
+- https://sandeep8816.github.io/Dice-Game/
